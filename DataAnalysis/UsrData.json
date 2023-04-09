@@ -1,0 +1,48 @@
+{
+    "chrislaiisme": {
+        "Profile": {
+            "Name": "chrislaiisme",
+            "Name_Link": "<a href=\"./UserStatistic?id=385\" title=\"chrislaiisme\">chrislaiisme</a>",
+            "School": "[復旦高級中學]"
+        },
+        "SubmitHistory": "./ContestSubmissions?userid=385&contestid=209",
+        "TatalScore": 300,
+        "ACProblem": {
+            "Href": "./ContestSubmissions?userid=385&contestid=209",
+            "Count": 3
+        },
+        "Penalty": 3787,
+        "Rank": 1,
+        "Problems": {
+            "Problem1": 100,
+            "Problem2": 100,
+            "Problem_3": 0,
+            "Problem4": 100,
+            "Problem_5": 0,
+            "Problem_6": 0
+        }
+    },
+    "samson_jaw": {
+        "Profile": {
+            "Name": "samson_jaw",
+            "Name_Link": "<a href=\"./UserStatistic?id=854\" title=\"samson_jaw\">samson_jaw</a>",
+            "School": "[復旦高級中學]"
+        },
+        "SubmitHistory": "./ContestSubmissions?userid=854&contestid=209",
+        "TatalScore": 100,
+        "ACProblem": {
+            "Href": "./ContestSubmissions?userid=854&contestid=209",
+            "Count": 1
+        },
+        "Penalty": 1214,
+        "Rank": 2,
+        "Problems": {
+            "Problem_1": 0,
+            "Problem_2": 0,
+            "Problem_3": 0,
+            "Problem_4": 0,
+            "Problem_5": 0,
+            "Problem6": 100
+        }
+    }
+}
