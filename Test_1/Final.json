@@ -1,0 +1,864 @@
+{
+    "229": {
+        "BaseData": {
+            "S/N": true,
+            "身分": true,
+            "Problem_1": {
+                "Score": "114514",
+                "Name": "Sort yourself 2",
+                "Href": "./ShowProblem?problemid=a084"
+            },
+            "Problem_2": {
+                "Score": "1919810",
+                "Name": "逆序數對",
+                "Href": "./ShowProblem?problemid=a132"
+            },
+            "分數": true,
+            "答對": true,
+            "時間": true,
+            "排名": true
+        },
+        "UsrData": {
+            "william1010121": {
+                "Profile": {
+                    "Name": "william1010121",
+                    "Link": "./UserStatistic?id=458",
+                    "School": "[復旦高級中學]",
+                    "Id": "458"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=458&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=458&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 109,
+                "Rank": 1,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "0357": {
+                "Profile": {
+                    "Name": "0357",
+                    "Link": "./UserStatistic?id=758",
+                    "School": "[復旦高級中學]",
+                    "Id": "758"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=758&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=758&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 111,
+                "Rank": 2,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "s11034320": {
+                "Profile": {
+                    "Name": "s11034320",
+                    "Link": "./UserStatistic?id=940",
+                    "School": "[復旦高級中學]",
+                    "Id": "940"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=940&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=940&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 112,
+                "Rank": 3,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "frankie": {
+                "Profile": {
+                    "Name": "frankie",
+                    "Link": "./UserStatistic?id=910",
+                    "School": "[復旦高級中學]",
+                    "Id": "910"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=910&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=910&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 114,
+                "Rank": 4,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "s11034510": {
+                "Profile": {
+                    "Name": "s11034510",
+                    "Link": "./UserStatistic?id=787",
+                    "School": "[復旦高級中學]",
+                    "Id": "787"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=787&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=787&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 133,
+                "Rank": 5,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "Teijin": {
+                "Profile": {
+                    "Name": "Teijin",
+                    "Link": "./UserStatistic?id=1069",
+                    "School": "[復旦高級中學]",
+                    "Id": "1069"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1069&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1069&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 190,
+                "Rank": 6,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "fd09890107": {
+                "Profile": {
+                    "Name": "fd09890107",
+                    "Link": "./UserStatistic?id=863",
+                    "School": "[復旦高級中學]",
+                    "Id": "863"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=863&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=863&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 267,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "s11034623": {
+                "Profile": {
+                    "Name": "s11034623",
+                    "Link": "./UserStatistic?id=805",
+                    "School": "[復旦高級中學]",
+                    "Id": "805"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=805&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=805&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 335,
+                "Rank": 8,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "s11034212": {
+                "Profile": {
+                    "Name": "s11034212",
+                    "Link": "./UserStatistic?id=790",
+                    "School": "[復旦高級中學]",
+                    "Id": "790"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=790&contestid=229",
+                "TatalScore": 2034324,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=790&contestid=229",
+                    "Count": 2
+                },
+                "Penalty": 354,
+                "Rank": 9,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem2": 100
+                }
+            },
+            "mattwu0918": {
+                "Profile": {
+                    "Name": "mattwu0918",
+                    "Link": "./UserStatistic?id=861",
+                    "School": "[復旦高級中學]",
+                    "Id": "861"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=861&contestid=229",
+                "TatalScore": 1650362,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=861&contestid=229",
+                    "Count": 1
+                },
+                "Penalty": 29,
+                "Rank": 10,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem_2": 80
+                }
+            },
+            "s11034605": {
+                "Profile": {
+                    "Name": "s11034605",
+                    "Link": "./UserStatistic?id=944",
+                    "School": "[復旦高級中學]",
+                    "Id": "944"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=944&contestid=229",
+                "TatalScore": 498476,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=944&contestid=229",
+                    "Count": 1
+                },
+                "Penalty": 157,
+                "Rank": 11,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100,
+                    "Problem_2": 20
+                }
+            },
+            "JacobZhung1234": {
+                "Profile": {
+                    "Name": "JacobZhung1234",
+                    "Link": "./UserStatistic?id=1073",
+                    "School": "[復旦高級中學]",
+                    "Id": "1073"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1073&contestid=229",
+                "TatalScore": 32064,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1073&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 12,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 28,
+                    "Problem_2": 0
+                }
+            },
+            "andy1070152": {
+                "Profile": {
+                    "Name": "andy1070152",
+                    "Link": "./UserStatistic?id=366",
+                    "School": "[復旦高級中學]",
+                    "Id": "366"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=366&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=366&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 13,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "chrislaiisme": {
+                "Profile": {
+                    "Name": "chrislaiisme",
+                    "Link": "./UserStatistic?id=385",
+                    "School": "[復旦高級中學]",
+                    "Id": "385"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=385&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=385&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "benjaminkuo": {
+                "Profile": {
+                    "Name": "benjaminkuo",
+                    "Link": "./UserStatistic?id=857",
+                    "School": "[復旦高級中學]",
+                    "Id": "857"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=857&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=857&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "AllTheCodes": {
+                "Profile": {
+                    "Name": "AllTheCodes",
+                    "Link": "./UserStatistic?id=860",
+                    "School": "[復旦高級中學]",
+                    "Id": "860"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=860&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=860&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "s11034612": {
+                "Profile": {
+                    "Name": "s11034612",
+                    "Link": "./UserStatistic?id=800",
+                    "School": "[復旦高級中學]",
+                    "Id": "800"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=800&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=800&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "you0415": {
+                "Profile": {
+                    "Name": "you0415",
+                    "Link": "./UserStatistic?id=1091",
+                    "School": "[復旦高級中學]",
+                    "Id": "1091"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1091&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1091&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "apple": {
+                "Profile": {
+                    "Name": "apple",
+                    "Link": "./UserStatistic?id=865",
+                    "School": "[復旦高級中學]",
+                    "Id": "865"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=865&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=865&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "chocofrant1c": {
+                "Profile": {
+                    "Name": "chocofrant1c",
+                    "Link": "./UserStatistic?id=1089",
+                    "School": "[復旦高級中學]",
+                    "Id": "1089"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1089&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1089&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "fdhsj310_roger_HUANG": {
+                "Profile": {
+                    "Name": "fdhsj310_roger_HUANG",
+                    "Link": "./UserStatistic?id=320",
+                    "School": "[復旦高級中學]",
+                    "Id": "320"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=320&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=320&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "aaaron08813": {
+                "Profile": {
+                    "Name": "aaaron08813",
+                    "Link": "./UserStatistic?id=1136",
+                    "School": "[復旦高級中學]",
+                    "Id": "1136"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1136&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1136&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            },
+            "chechechen": {
+                "Profile": {
+                    "Name": "chechechen",
+                    "Link": "./UserStatistic?id=1258",
+                    "School": "[復旦高級中學]",
+                    "Id": "1258"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1258&contestid=229",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1258&contestid=229",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 14,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0,
+                    "Problem_2": 0
+                }
+            }
+        }
+    },
+    "226": {
+        "BaseData": {
+            "S/N": true,
+            "身分": true,
+            "Problem_1": {
+                "Score": "100",
+                "Name": "競賽用hello world",
+                "Href": "./ShowProblem?problemid=a196"
+            },
+            "分數": true,
+            "答對": true,
+            "時間": true,
+            "排名": true
+        },
+        "UsrData": {
+            "jean1123": {
+                "Profile": {
+                    "Name": "jean1123",
+                    "Link": "./UserStatistic?id=1269",
+                    "School": "[復旦高級中學]",
+                    "Id": "1269"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1269&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1269&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 48,
+                "Rank": 1,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "chechechen": {
+                "Profile": {
+                    "Name": "chechechen",
+                    "Link": "./UserStatistic?id=1258",
+                    "School": "[復旦高級中學]",
+                    "Id": "1258"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1258&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1258&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 942,
+                "Rank": 2,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "brian0802": {
+                "Profile": {
+                    "Name": "brian0802",
+                    "Link": "./UserStatistic?id=1208",
+                    "School": "[復旦高級中學]",
+                    "Id": "1208"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1208&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1208&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 1172,
+                "Rank": 3,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "AllTheCodes": {
+                "Profile": {
+                    "Name": "AllTheCodes",
+                    "Link": "./UserStatistic?id=860",
+                    "School": "[復旦高級中學]",
+                    "Id": "860"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=860&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=860&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 5317,
+                "Rank": 4,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "s11034337": {
+                "Profile": {
+                    "Name": "s11034337",
+                    "Link": "./UserStatistic?id=946",
+                    "School": "[復旦高級中學]",
+                    "Id": "946"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=946&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=946&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 30053,
+                "Rank": 5,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "35417": {
+                "Profile": {
+                    "Name": "35417",
+                    "Link": "./UserStatistic?id=1278",
+                    "School": "[復旦高級中學]",
+                    "Id": "1278"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1278&contestid=226",
+                "TatalScore": 100,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1278&contestid=226",
+                    "Count": 1
+                },
+                "Penalty": 30803,
+                "Rank": 6,
+                "Time": 0,
+                "Problems": {
+                    "Problem1": 100
+                }
+            },
+            "JacobZhung1234": {
+                "Profile": {
+                    "Name": "JacobZhung1234",
+                    "Link": "./UserStatistic?id=1073",
+                    "School": "[復旦高級中學]",
+                    "Id": "1073"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1073&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1073&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "asdfghjkl": {
+                "Profile": {
+                    "Name": "asdfghjkl",
+                    "Link": "./UserStatistic?id=1270",
+                    "School": "[復旦高級中學]",
+                    "Id": "1270"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1270&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1270&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "chrislaiisme": {
+                "Profile": {
+                    "Name": "chrislaiisme",
+                    "Link": "./UserStatistic?id=385",
+                    "School": "[復旦高級中學]",
+                    "Id": "385"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=385&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=385&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "frankie": {
+                "Profile": {
+                    "Name": "frankie",
+                    "Link": "./UserStatistic?id=910",
+                    "School": "[復旦高級中學]",
+                    "Id": "910"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=910&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=910&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "s11034212": {
+                "Profile": {
+                    "Name": "s11034212",
+                    "Link": "./UserStatistic?id=790",
+                    "School": "[復旦高級中學]",
+                    "Id": "790"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=790&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=790&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "fdhsj310_roger_HUANG": {
+                "Profile": {
+                    "Name": "fdhsj310_roger_HUANG",
+                    "Link": "./UserStatistic?id=320",
+                    "School": "[復旦高級中學]",
+                    "Id": "320"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=320&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=320&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "s95526": {
+                "Profile": {
+                    "Name": "s95526",
+                    "Link": "./UserStatistic?id=1274",
+                    "School": "",
+                    "Id": "1274"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1274&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1274&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "aaaron08813": {
+                "Profile": {
+                    "Name": "aaaron08813",
+                    "Link": "./UserStatistic?id=1136",
+                    "School": "[復旦高級中學]",
+                    "Id": "1136"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1136&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1136&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "mattwu0918": {
+                "Profile": {
+                    "Name": "mattwu0918",
+                    "Link": "./UserStatistic?id=861",
+                    "School": "[復旦高級中學]",
+                    "Id": "861"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=861&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=861&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "Bai_Yuan_Chen": {
+                "Profile": {
+                    "Name": "Bai_Yuan_Chen",
+                    "Link": "./UserStatistic?id=1131",
+                    "School": "[復旦高級中學]",
+                    "Id": "1131"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=1131&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=1131&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            },
+            "s10831727": {
+                "Profile": {
+                    "Name": "s10831727",
+                    "Link": "./UserStatistic?id=161",
+                    "School": "[復旦高級中學]",
+                    "Id": "161"
+                },
+                "SubmitHistory": "./ContestSubmissions?userid=161&contestid=226",
+                "TatalScore": 0,
+                "ACProblem": {
+                    "Href": "./ContestSubmissions?userid=161&contestid=226",
+                    "Count": 0
+                },
+                "Penalty": 0,
+                "Rank": 7,
+                "Time": 0,
+                "Problems": {
+                    "Problem_1": 0
+                }
+            }
+        }
+    }
+}

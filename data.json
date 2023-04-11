@@ -1,0 +1,10 @@
+{
+	"contestid": [229, 226],
+	"url" :{
+		"login": "https://dandanjudge.fdhs.tyc.edu.tw/Login",
+		"Ranking" : "https://dandanjudge.fdhs.tyc.edu.tw/ContestRanking",
+		"Edit": "https://dandanjudge.fdhs.tyc.edu.tw//EditContestants"	
+
+	},
+	"TimeLimit": 3 
+}
