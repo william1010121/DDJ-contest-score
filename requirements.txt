@@ -1,0 +1,5 @@
+bs4
+selenium
+html5lib
+datetime
+schedule
